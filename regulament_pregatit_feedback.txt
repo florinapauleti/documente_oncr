@@ -234,11 +234,10 @@ Art. 37
 Art. 38. Comisia de numărare a voturilor este alcătuită din trei delegați care nu candidează, membrii comisiei fiind propuși și desemnați de Adunarea Generală.
 
 Art. 39. Procedura alegerii președintelui decurge astfel:
-	a. președintele este ales Consiliul Director dintre membri săi.
-	b. comisia de numărare a voturilor anulează buletinele de vot completate greșit, numără voturile și desemnează candidatul ales.
-	c. dacă niciun candidat nu întrunește 50%+1 din voturi, se organizează al doilea tur de scrutin la care participă primii doi candidați, fiind desemnat candidat ales cel care a obținut cel mai mare număr de voturi.
-	d. candidații care nu au fost aleși în funcția de președinte pot opta să fie trecuți pe lista de candidați pentru Consiliul Director.
-	e. în cazul când există numai un singur candidat la funcția de președinte și acesta nu întrunește numărul necesar de voturi, se anulează toate alegerile și se convoacă o nouă Adunare Generală în termen de maxim trei luni.
+	a. președintele este ales de către membrii Consiliul Director dintre membri săi.
+	b. comisia de numărare a voturilor este reprezentată de Președintele în funcție, acesta numără voturile și desemnează candidatul ales.
+	c. dacă niciun candidat nu întrunește 50%+1 din voturi, se organizează al doilea tur de scrutin la care participă primii doi candidați, fiind desemnat candidatul care a obținut cel mai mare număr de voturi.
+	e. în cazul când există numai un singur candidat la funcția de președinte și acesta nu întrunește numărul necesar de voturi, se reia votul în Consiliul Director.
 
 Art. 40. Procedura alegerii membrilor Consiliului Director decurge astfel:
 	a. membrii Consiliului Director sunt aleși de plen, prin vot secret, de pe lista candidaților la această funcție.
