@@ -163,7 +163,7 @@ Art. 26 Atribuţii
 		a. toate atribuțiile Adunării Generale anuale;
 		b. evaluează separat activitatea organelor naţionale al căror mandat se încheie;
 		c. evaluează implementarea obiectivelor strategice pentru ultimii trei ani;
-		d. alege Președintele, membrii Consiliul Director şi membrii Comisiei Naţionale de Cenzori;
+		d. alege membrii Consiliului Director şi membrii Comisiei Naţionale de Cenzori;
 		e. dezbate şi aprobă obiectivele strategice pentru următorii trei ani și planul trienal de acțiune al ONCR.
 
 	(3) A doua Adunare Generală ordinară are adițional următoarele atribuții anuale:
@@ -176,15 +176,15 @@ Art. 27. Componenţa
 	(1) Consiliul Director conduce activitatea ONCR în intervalul dintre sesiunile Adunării Generale.
 	(2) Consiliul Director este format din 7 membri ai Centrelor Locale ONCR, aleşi pentru un mandat de 3 ani de către Adunarea Generală prin votul secret a cel puţin 50%+1 din totalul delegaţilor prezenţi.
 	(3) Toţi candidaţii sunt propuşi individual de către Centrele Locale.
-	(4) Preşedintele este ales nominal de către Adunarea Generală, iar ceilalţi 6 candidați sunt aleşi cu titlul de membri.
-	(5) Preşedintele numeşte Vicepreşedintele dintre membrii aleşi ai Consiliului Director.
+	(4) Preşedintele este ales nominal de către Consiliul Director dintre membrii săi.
+	(5) Vicepreședintele este ales nominal de către Consiliul Director dintre membrii săi.
 	(6) Trezorierul ONCR este un membru ex-officio numit de către Consiliul Director.
 	(7) Un membru al ONCR are dreptul de a fi ales ca membru al Consiliului Director, indiferent de funcția deținută, doar pentru două mandate consecutive.
 
 Art. 28. Funcţionare
 	(1) Consiliul Director stabileşte atribuţiile membrilor acestuia pe baza obiectivelor strategice ale ONCR adoptate de Adunarea Generală, componenţa pe responsabilităţi a Consiliului Director fiind anunţată de către Preşedinte cât mai curând după Adunarea Generală de alegeri.
 	(2) Membrii vor fi numiți de către Consiliul Director Coordonatori Naţionali pentru fiecare dintre prioritățile strategice ale ONCR şi pentru fiecare din zonele desemnate de Consiliul Director.
-	(3) Comisarul Internaţional este unul din cei 6 membri aleşi, care nu are ca atribuţie nicio prioritate strategică.
+	(3) Comisarul Internaţional este unul din cei 7 membri aleşi, care nu are ca atribuţie nicio prioritate strategică.
 	(4) Trezorierul este consultant pentru politica financiară a ONCR, fără drept de vot în Consiliul Director.
 	(5) Consiliul Director se întruneşte în şedinţă ordinară trimestrială, sau extraordinară, de câte ori este nevoie.
 	(6) Absența Președintelui sau a oricărui membru al Consiliului Director de la trei ședințe consecutive atrage de la sine demiterea acestuia din Consiliul Director și completarea vacanțelor conform prevederilor de mai jos. De asemenea, lipsa unui răspuns cu privire la deciziile online poate atrage de la sine demiterea unui membru din Consiliul Director, în condițiile prezentate în Regulament.
@@ -193,7 +193,7 @@ Art. 28. Funcţionare
 
 Art. 29. Vacanțe de mandat
 	(1) În perioada dintre Adunările Generale sunt posibile cel mult trei înlocuiri în cadrul Consiliului Director, determinate de demisii, boală, deces sau sancțiune, folosindu-se candidații la Consiliul Director respinși la ultima Adunare Generală, în ordinea descrescătoare a voturilor obținute, modificări care vor fi supuse aprobării la prima Adunare Generală a ONCR.
-	(2) În cazul vacanței funcției de Preşedinte, interimatul acestei responsabilităţi este preluat de către Vicepreşedinte, până la următoarea Adunare Generală anuală, unde va fi ales un Preşedinte interimar care va asigura exercițiul mandatului curent până la noile alegeri din următoarea Adunare Generală Trienală.
+	(2) În cazul vacanței funcției de Preşedinte, interimatul acestei responsabilităţi este preluat de către Vicepreşedinte, până la următoarea întâlnire de Consiliu Director, unde va fi ales un Preşedinte care va asigura exercițiul mandatului curent până la noile alegeri din următoarea Adunare Generală Trienală.
 
 Art. 30. Atribuţii:
 	a. convoacă Adunarea Generală;
@@ -223,6 +223,7 @@ Art. 30. Atribuţii:
 	y. aprobă documentele fundamentale (statut, regulament) ale Centrelor Locale care obțin încuviințarea Adunării Generale pentru a-și obține personalitatea juridică.
 	x. numește Responsabilul SfH Național și aprobă, la recomandarea Responsabilului SfH Național, componența Echipei Naționale de Safe from Harm (SfH), pentru un mandat de 3 ani.
 	aa. decide asumarea sau respingerea rapoartelor comisiilor de anchetă primite de la Echipa Națională SfH, care conțin și propuneri de sancționare a membrilor din ONCR; în cazul unei respingeri, Echipa Națională SfH trebuie să refacă ancheta cu o altă comisie.
+	aa1. alege președintele și vicepreședintele prin vot nominal dintre membrii Consiliului Director
 
 A1.3 - Președintele ONCR
 ========================

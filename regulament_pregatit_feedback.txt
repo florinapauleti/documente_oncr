@@ -194,7 +194,7 @@ Art. 28. Cele două Adunări Generale ordinare au următoarele atribuții anuale
 		a. toate atribuțiile Adunării Generale anuale.
 		b. evaluează și aprobă individual și colectiv activitatea organelor naționale a căror activitate se încheie.
 		c. evaluează și aprobă implementarea obiectivelor strategice pentru ultimii trei ani.
-		d. alege președintele, membrii Consiliului Director și membrii Comisiei Naționale de Cenzori.
+		d. alege membrii Consiliului Director și membrii Comisiei Naționale de Cenzori.
 		e. dezbate și aprobă obiectivele strategice pentru următorii trei ani și planul trienal de acțiune al ONCR.
 	(3) A doua Adunare Generală ordinară are adițional următoarele atribuții anuale:
 		a. Aprobă bugetul de venituri și cheltuieli al ONCR pentru anul următor, propus de Consiliul Director.
@@ -233,16 +233,13 @@ Art. 37
 
 Art. 38. Comisia de numărare a voturilor este alcătuită din trei delegați care nu candidează, membrii comisiei fiind propuși și desemnați de Adunarea Generală.
 
-Art. 39. Procedura alegerii președintelui decurge astfel:
-	a. președintele este ales de plen, prin vot secret, de pe lista candidaților la această funcție.
-	b. comisia de numărare a voturilor anulează buletinele de vot completate greșit, numără voturile și desemnează candidatul ales.
-	c. dacă niciun candidat nu întrunește 50%+1 din voturi, se organizează al doilea tur de scrutin la care participă primii doi candidați, fiind desemnat candidat ales cel care a obținut cel mai mare număr de voturi.
-	d. candidații care nu au fost aleși în funcția de președinte pot opta să fie trecuți pe lista de candidați pentru Consiliul Director.
-	e. în cazul când există numai un singur candidat la funcția de președinte și acesta nu întrunește numărul necesar de voturi, se anulează toate alegerile și se convoacă o nouă Adunare Generală în termen de maxim trei luni.
+Art. 39. Alegerea președintelui decurge astfel:
+	a. președintele este ales de către membrii Consiliul Director dintre membri săi.
+	b. comisia de numărare a voturilor este reprezentată de Președintele în funcție și Directorul Executiv, aceștia numără voturile și desemnează candidatul ales, conform procedurii de alegere a Președintelui.
 
 Art. 40. Procedura alegerii membrilor Consiliului Director decurge astfel:
 	a. membrii Consiliului Director sunt aleși de plen, prin vot secret, de pe lista candidaților la această funcție.
-	b. comisia de numărare a voturilor anulează buletinele de vot completate greșit, numără voturile și desemnează primii zece candidați, în ordinea descrescătoare a numărului de voturi, ca membri aleși ai Consiliului Director.
+	b. comisia de numărare a voturilor anulează buletinele de vot completate greșit, numără voturile și desemnează primii șapte candidați, în ordinea descrescătoare a numărului de voturi, ca membri aleși ai Consiliului Director.
 	c. în cazul înregistrării unui număr egal de voturi între ultimii candidați și imposibilitatea de a desemna toți candidații aleși, se organizează un vot de baraj, pentru cei aflați la egalitate pe ultimele locuri.
 
 Art. 41. Procedura alegerii membrilor Comisiei Naționale de Cenzori este similară procedurii prezentate la art. 40.
@@ -258,9 +255,10 @@ Art. 44. Consiliul Director conduce activitatea ONCR în intervalul dintre sesiu
 
 
 Art. 45.
-	(1) Consiliul Director este format din 7 membri ai ONCR (președintele și 6 membri) aleși pentru un mandat de trei ani de către Adunarea Generală prin votul secret a cel puțin 50%+1 din totalul delegaților prezenți.
-	(2) Președintele este ales nominal de către Adunarea Generală, iar ceilalți 6 sunt aleși cu titlul de membri.
-	(3) Președintele numește vicepreședintele dintre membrii Consiliului Director.
+	(1) Consiliul Director este format din 7 membri ai ONCR aleși pentru un mandat de trei ani de către Adunarea Generală prin votul secret a cel puțin 50%+1 din totalul delegaților prezenți.
+	(2) Toți cei 7 candidați sunt aleși cu titlul de membri.
+	(2.1) Președintele este ales nominal de către membrii Consiliuli Director.
+	(3) Vicepreședintele este ales nominal de către membrii Consiliului Director.
 	(4) Trezorierul ONCR este un membru ex officio, numit de Consiliul Director.
 
 Art. 46. 
@@ -292,7 +290,7 @@ Art. 49.
 	(1) În perioada dintre Adunările Generale sunt posibile cel mult trei înlocuiri în cadrul Consiliului Director, determinate de demisii, boală, deces sau sancțiune, folosindu-se candidații la Consiliul Director respinși la ultima Adunare Generală de alegeri dar care au îndeplinit 50%+1 voturi, în ordinea descrescătoare a voturilor obținute, modificări care vor fi supuse aprobării la prima Adunare Generală a ONCR.
 	(2) În situația în care niciunul dintre aceștia nu va accepta funcția, CD va funcționa cu numărul de membri rămași până la prima Adunare Generală când vor fi organizate alegeri pentru completarea CD. În situația înlocuirii a mai mult de 3 membri ai CD, sau în situația în care rămân mai puțin de 4 membri în CD, acesta va convoca Adunarea Generală extraordinară pentru alegerea unui nou CD.
 	(3) Nu se consideră un mandat în sensul art. 33 mandatele asumate în condițiile Art. 49. punctele (1) și (2).
-	(4) În cazul vacanței funcției de președinte, interimatul acestei responsabilități este preluat de către vicepreședinte, până la următoarea Adunare Generală anuală, cand va fi ales un președinte interimar, care va asigura exercițiul mandatului curent până la noile alegeri din următoarea Adunare Generală trienală.
+	(4) În cazul vacanței funcției de președinte, interimatul acestei responsabilități este preluat de către vicepreședinte, până la următoarea întâlnire de Consiliu Director, cand va fi ales un președinte, care va asigura exercițiul mandatului curent până la noile alegeri din următoarea Adunare Generală trienală.
 
 Art. 50.
 	(1) Ședințele Consiliului Director sunt conduse de președinte, iar în lipsa acestuia de vicepreședinte.
@@ -334,6 +332,7 @@ Art. 52. Consiliul Director are următoarele atribuții:
 	y. aprobă documentele fundamentale (statut, regulament) ale tuturor Centrelor Locale pentru a-și obține personalitatea juridică. Hotărârea Adunării Generale va menționa necesitatea obținerii unei decizii de CD cu privire la aceste documente.
 	z. numește Responsabilul SfH Național și aprobă, la recomandarea Responsabilului SfH Național, componența Echipei Naționale de Safe from Harm (SfH), pentru un mandat de 3 ani.
 	aa. decide asumarea sau respingerea rapoartelor comisiilor de anchetă primite de la Echipa Națională SfH, care conțin și propuneri de sancționare a membrilor din ONCR; în cazul unei respingeri, Echipa Națională SfH trebuie să refacă ancheta cu o altă comisie.
+	aa1. alege președintele și vicepreședintele prin vot nominal dintre membrii Consiliului Director
 
 Art. 53. Atribuțiile Președintelui, Vicepreședintelui, Comisarului Internațional și Coordonatorilor Naționali sunt prezentate în Regulament.
 		
